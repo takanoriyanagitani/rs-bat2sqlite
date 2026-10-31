@@ -3,6 +3,13 @@ name = "rs-bat2sqlite"
 version = "0.1.0"
 edition = "2024"
 
+description = "Inserts the record batch to the sqlite table."
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-bat2sqlite"
+homepage = "https://github.com/takanoriyanagitani/rs-bat2sqlite"
+documentation = "https://docs.rs/rs-bat2sqlite/latest"
+keywords = ["arrow", "sqlite", "recordbatch", "convert"]
+
 exclude = [
 ]
 
